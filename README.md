@@ -18,8 +18,8 @@ Every narrative in this repository is displayed on SlaveryStories.org. We also e
 
 #### ** Prerequisites to contribute **
 
- 1. **Have git installed**:   [You an use this easy guide to get setup.]((https://github.com/scholastica/slave-narratives/wiki/Installing-Git-and-or-Github-Apps))
- 2. **Understand Basic HTML**:  [You can learn about HTML here.](http://teamtreehouse.com/library/html)
+ 1. **Have git installed**:   [You an use this easy guide to get set up.](https://github.com/scholastica/slave-narratives/wiki/Installing-Git-and-or-Github-Apps)
+ 2. **Understand Basic HTML**: If you don't know HTML, don't worry – not only is it the lingua franca of the web, it's super-easy. There's a great resource to get you started [here](http://teamtreehouse.com/library/html).
 
 ### Step 1: Fork this repository
 
