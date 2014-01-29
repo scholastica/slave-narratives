@@ -5,6 +5,8 @@
 </head>
 <body>
 
+  <!-- This is where the top-level details about the narrative goes. -->
+
   <h1 id="title">
     TITLE GOES HERE
   </h1>
@@ -17,7 +19,25 @@
     AUTHOR GOES HERE
   </h2>
 
+<!--
+
+  Put all of the narrative content in the section below, if you're adding an audio narrative be sure to add a class of audio, ex: <section id="narrative" class="audio">
+
+-->
+
   <section id="narrative">
+
+    <h3>CHAPTER GOES HERE</h3>
+
+  <!-- See below for how footnotes are incorporated.
+
+  It's an anchor link that wraps a superscript (<sup></sup>) tag. Your first footnote link will have an href of "#f1" and you'll continue adding footnotes in that sequence ("#f2", "#f3", "etc"). Make sure to add the classes "footnote-asterisk" and "link".
+
+  You'll add the number of the footnote in the body of your superscript tag ("<sup>1</sup>", "<sup>2</sup>", etc.")
+
+  Check out the footnotes section to see how to handle the body of your footnote.
+-->
+
     <p>
       Efficiently unleash cross-media information <a href="#f1" class="footnote-asterisk link"><sup>1</sup></a> without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.
     </p>
@@ -26,7 +46,11 @@
       Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically<a href="#f2" class="footnote-asterisk link"><sup>2</sup></a> innovate resource-leveling customer service for state of the art customer service.
     </p>
 
-    <!-- below is an example of a blockquote. Use this for correpondence, letters, bills of sale, etc -->
+    <!--
+
+    below is an example of a blockquote. Use this for correpondence, letters, bills of sale, etc. Make sure to wrap it in paragraph tags as seen below
+
+  -->
 
     <p>
       <blockquote>
@@ -40,7 +64,13 @@
       </blockquote>
     </p>
 
-    <!-- below is an example of a song or poem. notice that it's similar to the blockquote style but has sections with the class of "stanza" -->
+    <!--
+
+    below is an example of a song or poem. notice that it's similar to the blockquote style but has sections with the class of "stanza"
+
+    Only use "h3" tags if you put a header tag in a blockquote
+
+  -->
 
     <p>
       <blockquote>
@@ -75,6 +105,15 @@
   </section>
 
   <section id="footnotes">
+
+    <!--
+
+    These are how footnotes are incorporated. First, each one is wrapped in a "div." The "id" matches the "href" value used when you set the footnote in the "narrative" section. Unlike before, it doesn't involve a "#" sign.
+
+    Make sure that you use match the number between the "sup" tag with what you used in the "narrative" section
+
+      -->
+
     <div>
         <p>
           <a id="f1" class="footnote-asterisk"><sup>1</sup></a>
@@ -89,6 +128,12 @@
         </p>
     </div>
   </section>
+
+  <!--
+
+   If you're using HTML adapted from another source please link to it in the following section. Feel free to give yourself a shout out too :)
+
+  -->
 
   <section id="attribution">
     <p>
