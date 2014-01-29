@@ -2,7 +2,9 @@
 
 ### Project goals
 
-**The goal of SlaveryStories is to make it easy for people to experience primary sources about slavery in the US**. We're accomplishing this goal by making these narratives available at [http://www.slaverystories.org](http://www.slaverystories.org), where anyone can read/listen at a site that is optimized for desktop, tablet, and mobile. We think that by having better presented narratives people will find it easier to read and listen to this content.
+**The goal of SlaveryStories is to make it easy for people to experience primary sources about slavery in the US**.
+
+We're accomplishing this goal by making these narratives available at [http://www.slaverystories.org](http://www.slaverystories.org), where anyone can read/listen at a site that is optimized for desktop, tablet, and mobile. We think that by having better presented narratives people will find it easier to read and listen to this content.
 
 Every narrative in this repository is also displayed at SlaveryStories.org. Any narrative that's submitted as a pull request will be added to the site. Even if you have no interest in the site feel free to pull the markup for these narratives and do with them as you wish.
 
@@ -52,7 +54,7 @@ If you're adding an audio narrative, you'll add a class of "audio."
       </section>
 
 
-###### Chapters
+##### Chapters
 
 Chapters are always made with "h3" tags.
 
