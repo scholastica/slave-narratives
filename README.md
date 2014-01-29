@@ -24,7 +24,7 @@ There's a template file located in the **narrative-template** folder that has an
 
 ##### First section: *top level details*
 
-This parts easy, it's just title, subtitle (if present), and author. If your narrative doesn't have a subtitle, just delete it that bit.
+This parts easy, it's just title, subtitle (if present), and author. If your narrative doesn't have a subtitle, just delete that bit.
 
 
       <h1 id="title">
@@ -178,15 +178,19 @@ Use this section to give yourself some credit as well as providing the links bac
 
             <b> or <i>, use <strong> and <em> instead
 
-* submit a narrative with any attributes on elements. They just end up making the markup inconsistent.
+* submit a narrative with any attributes on elements. They just end up making the markup inconsistent. For example don't do:
 
-* use try to emulate styling with tags like:
+            <p class="make-bigger"></p>
+
+* try to emulate styling with tags like:
 
             &nbsp;
 
 * forget to include attribution info!
 
 ### Do:
+
+* keep your markup as simple as possible – it should mostly just consist of "paragraph" elements and "h3" chapter headings
 
 * follow the instructions in the Readme and template.
 
