@@ -2,7 +2,7 @@
 
 ### Project goals
 
-**The goal of SlaveryStories.org is to make it easy for people to discover and read personal stories about slavery in the US**.
+**The goal of SlaveryStories.org is to make it easy for people to discover and read true stories about slavery in the US from the perspective of the slaves themselves**.
 
 We're accomplishing this goal by making these stories available at [slaverystories.org](http://www.slaverystories.org), where anyone can read/listen to stories on a site that is optimized for desktop, tablet, and mobile. We think that by providing a better online experience people will find it easier to read and listen to this content.
 
