@@ -208,7 +208,7 @@ Once you've created a narrative using the above template you're now ready to mak
 
  2.  [Follow these instructions to create pull request from your forked repository](https://help.github.com/articles/creating-a-pull-request)
 
-** Once your pull request has been sent we'll review it and see that it's added to SlaveStories.org!**
+** Once your pull request has been sent we'll review it and see that it's added to SlaveryStories.org!**
 
 
 ### Some Do's and Dont's
@@ -219,7 +219,7 @@ Once you've created a narrative using the above template you're now ready to mak
 
 * use tags like:
   ```html
-            <b> or <i>, use <strong> and <em> instead
+      <b> or <i>, use <strong> and <em> instead
   ```
 
 * submit a narrative with any attributes on elements. They just end up making the markup inconsistent. For example don't do:
