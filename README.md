@@ -239,3 +239,10 @@ Once you've created a narrative using the above template you're now ready to mak
 * follow the instructions in the Readme and template.
 
 * have fun!
+
+# License
+
+This repository is licensed under the
+[Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US),
+and the underlying source code used to format and display content on SlaveNarratives.org
+is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
