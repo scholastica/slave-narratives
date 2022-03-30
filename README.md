@@ -238,7 +238,7 @@ Once you've created a narrative using the above template you're now ready to mak
 
 * follow the instructions in the Readme and template.
 
-* have fun!
+* have fun & thank you! 
 
 # License
 
